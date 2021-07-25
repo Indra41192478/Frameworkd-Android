@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="signupemail" type="id">signupemail</string>
+    <string name="signupusername" type="id">signupusername</string>
+    <string name="siguppassword" type="id">siguppassword</string>
+    <string name="signupbutton" type="id">signupbutton</string>
+    <string name="loginusername" type="id">loginusername</string>
+    <string name="loginpassword" type="id">loginpassword</string>
+    <string name="loginbutton" type="id">loginbutton</string>
+</resources>

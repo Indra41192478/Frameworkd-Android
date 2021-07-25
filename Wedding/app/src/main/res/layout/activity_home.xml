@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_home"
+    tools:context=".HomeActivity">
+
+    <WebView
+        android:id="@+id/WebView1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+    </WebView>
+
+    <Button
+        android:id="@+id/logoutbtn"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="110dp"
+        android:layout_marginLeft="110dp"
+        android:text="Logout"
+        app:backgroundTint="@color/grey" />
+
+</RelativeLayout>
